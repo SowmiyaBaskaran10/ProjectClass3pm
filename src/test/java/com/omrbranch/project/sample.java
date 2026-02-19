@@ -14,5 +14,14 @@ public class sample {
 		System.out.println("method3");
 
 	}
+	
+	private void method4() {
+		System.out.println("method4");
+
+	}
+	private void method5() {
+		System.out.println("method5");
+
+	}
 
 }
